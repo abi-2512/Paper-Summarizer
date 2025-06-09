@@ -89,9 +89,11 @@ All located in the `samples/` directory as `.txt` files.
 
 ## 🌱 Future Improvements
 
+
+* [ ] Only works on shorter pieces of text due to compute limitations
 * [ ] Chunk long documents and stitch multi-part summaries
 * [ ] Improve bias classification with fine-tuned models
-* [ ] Add visual heatmaps for ethical sentence relevance
+* [ ] Option for selecting different models as per the users wish
 * [ ] PDF upload + parsing support
 * [ ] Save full analysis reports (PDF/Markdown)
 
