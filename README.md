@@ -7,6 +7,8 @@ A powerful tool for analyzing long-form research papers. This app uses cutting-e
 
 ---
 
+# [DEMO👾](https://paper-summary.streamlit.app/)
+
 ## 🚀 Features
 
 ### 🧠 AI-Powered Summarization
