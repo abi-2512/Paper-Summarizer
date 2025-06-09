@@ -54,12 +54,12 @@ Built using:
 - 🤗 `facebook/bart-large-mnli` for zero-shot classification
 - 🧠 `all-MiniLM-L6-v2` for semantic similarity
 
-Designed to analyze **full research papers** for key insights and ethical concerns.
+Designed to analyze **abstracts** for key insights and ethical concerns.
 """)
 
 # Page Title
 st.title("🔍 Research Paper Analyzer")
-st.caption("Upload a research paper or try a sample. See a smart summary + ethical/bias review.")
+st.caption("Upload a research paper abstract or try a sample. See a smart summary + ethical/bias review.")
 
 # Sample files
 sample_texts = {
